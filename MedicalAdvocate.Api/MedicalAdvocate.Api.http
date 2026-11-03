@@ -1,0 +1,7 @@
+###
+POST http://localhost:5295/api/reports/analyze
+Content-Type: application/json
+
+{
+  "rawText": "Pacientul Popescu Ion, având CNP 1850101123456 și telefonul 0740123456, a trimis analizele de pe mailul pacient@email.ro."
+}
